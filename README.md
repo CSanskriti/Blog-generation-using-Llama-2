@@ -6,13 +6,13 @@ This project is a simple web application that leverages the Streamlit library to
 ### Prerequisites
 Python 3.x
 Install dependencies using pip install -r requirements.txt
-Running the Application
+### Running the Application
 Execute the following command to run the Streamlit web app:
 
 ## bash
-Copy code
-streamlit run your_script_name.py
-Replace your_script_name.py with the name of your Python script.
+1. Copy code
+2. streamlit run your_script_name.py
+3. Replace your_script_name.py with the name of your Python script.
 
 ## Usage
 1. Open the web app in your browser.
@@ -24,14 +24,15 @@ Replace your_script_name.py with the name of your Python script.
 4. Click the "Generate" button to generate a blog response.
 The generated response will be displayed on the web page.
 ## Project Structure
-your_script_name.py: Main Python script containing the Streamlit application code.
-langchain/: Custom library for interacting with the LLama 2 language model.
-prompts/: Module for creating prompt templates.
-llms/: Module for configuring and using the LLama 2 model.
-models/: Directory for storing the LLama 2 model files.
+1. your_script_name.py: Main Python script containing the Streamlit application code.
+2. langchain/: Custom library for interacting with the LLama 2 language model.
+3. prompts/: Module for creating prompt templates.
+4. llms/: Module for configuring and using the LLama 2 model.
+5. models/: Directory for storing the LLama 2 model files.
 ## Dependencies
 Streamlit
 Langchain (custom library)
+
 Other dependencies specified in requirements.txt
 ## Customization
 Modify the prompt template, LLama 2 model configurations, and other parameters in the script as needed.
