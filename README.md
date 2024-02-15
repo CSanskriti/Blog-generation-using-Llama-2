@@ -15,10 +15,13 @@ streamlit run your_script_name.py
 Replace your_script_name.py with the name of your Python script.
 
 ## Usage
-Open the web app in your browser.
-Enter the blog topic in the provided text input.
-Specify the number of words and select a writing style.
-Click the "Generate" button to generate a blog response.
+1. Open the web app in your browser.
+
+2. Enter the blog topic in the provided text input.
+
+3. Specify the number of words and select a writing style.
+
+4. Click the "Generate" button to generate a blog response.
 The generated response will be displayed on the web page.
 ## Project Structure
 your_script_name.py: Main Python script containing the Streamlit application code.
