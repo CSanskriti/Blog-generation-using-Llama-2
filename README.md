@@ -9,7 +9,7 @@ Install dependencies using pip install -r requirements.txt
 ### Running the Application
 Execute the following command to run the Streamlit web app:
 
-## bash
+### bash
 1. Copy code
 2. streamlit run your_script_name.py
 3. Replace your_script_name.py with the name of your Python script.
@@ -35,7 +35,7 @@ Langchain (custom library)
 
 Other dependencies specified in requirements.txt
 ## Customization
-Modify the prompt template, LLama 2 model configurations, and other parameters in the script as needed.
+Modify the prompt template, LLama-2-7b-hf model configurations, and other parameters in the script as needed.
 ## Acknowledgments
 This project uses the Streamlit library and Langchain custom modules for an easy and interactive user experience.
 Feel free to customize and extend the project according to your requirements. Happy blogging!
